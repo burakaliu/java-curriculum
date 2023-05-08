@@ -1,0 +1,61 @@
+Week 1: Introduction to Java
+
+- Introduction to Java programming language and its applications
+- Setting up the development environment (IDE, JDK)
+- Writing and running the first Java program (Hello World)
+
+Week 2: Data Types and Variables
+
+- Understanding data types (int, double, boolean, etc.)
+- Declaring and initializing variables
+- Basic arithmetic operations
+
+Week 3: Operators and Expressions
+
+- Understanding operators (+, -, *, /, %)
+- Compound assignment operators (+=, -=, *=, /=, %=)
+- Increment and decrement operators (++ and --)
+
+Week 4: Input and Output
+
+- Basic input/output operations using Scanner and System.out
+- Reading and writing data to files
+
+Week 5: Conditional Statements
+
+- Introduction to conditional statements (if, else)
+- Understanding logical operators (&&, ||, !)
+
+Week 6: Conditional Statements Continued
+
+- Nested if statements
+- Switch statements
+
+Week 7: Loops
+
+- Introduction to loops (while, do-while, for)
+- Understanding loop control statements (break, continue)
+
+Week 8: Arrays
+
+- Understanding arrays and their uses
+- Declaring and initializing arrays
+- Working with arrays (sorting, searching)
+
+Week 9: Methods
+
+- Introduction to methods
+- Defining and invoking methods
+- Passing arguments to methods
+
+Week 10: Recap and Review
+
+- Reviewing all topics covered in the previous weeks
+- Practicing coding exercises and quizzes
+- Preparing for the final project
+
+Week 11: Final Project
+
+- Applying all the concepts learned in the previous weeks to build a small project using Java programming language
+- Collaborating with peers to work on the project
+- Presenting the project to the class
