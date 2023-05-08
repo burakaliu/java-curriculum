@@ -15,11 +15,11 @@ The curriculum is split into multiple units, each with its own set of lessons an
 
 Each unit includes detailed lesson plans that outline the learning objectives, materials needed, and step-by-step instructions for the activities. Additionally, the curriculum includes assessments that teachers can use to evaluate students' progress and understanding.
 
-##Getting Started
+## Getting Started
 To get started with the FirstBricks Java curriculum, you can simply clone this repository and access the curriculum materials directly. Alternatively, you can download the curriculum materials in PDF format from the docs directory.
 
-##Contributing
+## Contributing
 If you would like to contribute to the FirstBricks Java curriculum, please fork this repository and submit a pull request with your changes. We welcome contributions from anyone who has experience teaching Java or working with middle school/high school students.
 
-##License
+## License
 The FirstBricks Java curriculum is released under the MIT License. You are free to use, copy, and modify the curriculum for your own purposes. However, we ask that you give credit to FirstBricks if you use any part of the curriculum in your own teaching materials.
