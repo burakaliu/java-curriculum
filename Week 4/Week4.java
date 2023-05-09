@@ -18,7 +18,7 @@ public class Week4 {
 
         // Writing output to a file
         try {
-            FileWriter writer = new FileWriter("output.txt");
+            FileWriter writer = new FileWriter("Week 4/output.txt");
             writer.write("Hello, " + name + "!");
             writer.close();
         } catch (IOException e) {
@@ -26,7 +26,7 @@ public class Week4 {
         }
 
         // Reading input from a file
-        File file = new File("input.txt");
+        File file = new File("Week 4/input.txt");
         String fileContent = "";
         try {
             Scanner fileScanner = new Scanner(file);
@@ -36,6 +36,7 @@ public class Week4 {
             fileScanner.close();
             System.out.println("Contents of input.txt: " + fileContent);
         } catch (IOException e) {
+            e.printStackTrace();
             System.err.println("An error occurred while reading from the file: " + e.getMessage());
         }
 

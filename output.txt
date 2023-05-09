@@ -1,0 +1,2 @@
+Hello, name!Welcome to Java programming!
+Welcome to Java programming!
